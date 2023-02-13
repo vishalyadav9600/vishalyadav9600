@@ -8,13 +8,10 @@
 
 - 🌱 I’m currently learning **Android Java and Springboot.**
 
-- 👨‍💻 All of my projects are available at [https://vishalyadav9600.github.io/portfolio/](https://vishalyadav9600.github.io/portfolio/)
-
 - 💬 Ask me about **C++, DSA, MERN.**
 
 - 📫 How to reach me **vishalyadav9600@outlook.com**
 
-- ⚡ Fun fact **I love to solve problems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
